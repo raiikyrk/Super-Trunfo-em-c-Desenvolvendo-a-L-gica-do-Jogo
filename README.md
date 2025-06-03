@@ -4,8 +4,8 @@
 Programa em C para a faculdade. Cadastra duas cidades e compara população ou PIB com um menu.
 
 ## Como rodar
-1. Compile: `gcc super_trunfo.c -o super_trunfo`
-2. Execute: `./super_trunfo`
+1. Compile: `gcc st_t.c -o st_t
+2. Execute: `st_t.exe
 
 ## Arquivo
-- `super_trunfo.c`: Código com cadastro e comparação.
+- `st_t`: Código com cadastro e comparação.
