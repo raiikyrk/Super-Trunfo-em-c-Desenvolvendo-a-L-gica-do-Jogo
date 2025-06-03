@@ -1,11 +1,18 @@
 # Super-Trunfo-em-c-Desenvolvendo-a-L-gica-do-Jogo
 
-# Super Trunfo de Países
-Programa em C para a faculdade. Cadastra duas cidades e compara população ou PIB com um menu.
+Programa simples em C que compara duas cidades com base em população ou PIB.
 
-## Como rodar
-1. Compile: `gcc st_t.c -o st_t
-2. Execute: `st_t.exe
+🚀 Como usar
+Compile:
+gcc st_t.c -o st_t
 
-## Arquivo
-- `st_t`: Código com cadastro e comparação.
+Rode:
+st_t.exe # no Windows
+Digite os dados das cidades e escolha o atributo para comparar.
+
+🧠 O que o programa faz
+Cadastra 2 cidades (nome, população, PIB)
+
+Compara um atributo escolhido (1 = população, 2 = PIB)
+
+Mostra qual cidade venceu
